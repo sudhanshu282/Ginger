@@ -3,6 +3,8 @@ Travel List
 - Shoes
 - Shaving Kit
 - Coat
+- Camera
+- Jacket
 
 Picnic List
 --------------------
